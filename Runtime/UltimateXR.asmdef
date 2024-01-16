@@ -71,6 +71,11 @@
             "name": "com.magicleap.unitysdk",
             "expression": "",
             "define": "ULTIMATEXR_USE_MAGICLEAP_SDK"
+        },
+        {
+            "name": "com.meta.xr.sdk.core",
+            "expression": "",
+            "define": "ULTIMATEXR_USE_META_XR_SDK"
         }
     ],
     "noEngineReferences": false
